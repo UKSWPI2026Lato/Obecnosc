@@ -1,8 +1,14 @@
 1. Kup jajka.
 2. Wyjmij patelnię.
+<<<<<<< HEAD
 3. Umyj patelnie.
 4. Podgrzej patelnię.
 
+=======
+3. Podgrzej patelnię.
+4. Posmaruj patelnię masłem.
+>>>>>>> 30802c74f4b9b80e529c149402ab573e48b737a7
 7. Przypraw jajka.
+8. Rozmieszaj jajka.
 10. Podaj na talerzu.
 12. Zjedz ze smakiem.
